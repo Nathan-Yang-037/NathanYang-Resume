@@ -1,0 +1,129 @@
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
+  <div class="w-100">
+    <h1 class="mb-3">Nathan Yang
+    </h1>
+    <div class="subheading mb-5">Business Administration📚</div>
+    <p class="lead mb-4">My name is Nathan Sungjun Yang; I am 19 years old and I am currently a Business Administration undergraduate student at the University of California, Riverside. One of my professional accomplishments is that I worked as an Independent Cutco Sales Representative. I belive in hard work and a good work ethic. I belive that with these, anyone can succeed and get to where they want to get in life. Outside of work, I love to spend my time at the beach and in the snow; surfing and snowboarding are just two of my favorite hobbies. I also love hiking and photography.<br><br>
+
+        <br><br>
+
+    </p>
+    <div class="social-icons">
+      <a target="_blank" href="https://www.linkedin.com/in/nathan-yang-8a0336155">
+        <i class="fab fa-linkedin-in"></i>
+      </a>
+      <a target="_blank" href="https://github.com/Nathan-Yang-037">
+        <i class="fab fa-github"></i>
+      </a>
+      <a target="_blank" href="https://twitter.com/Nathanyang49">
+        <i class="fab fa-twitter"></i>
+      </a>
+      <a target="_blank" href="mailto:nathanyang49@gmail.com">
+        <i class="fa fa-envelope"></i>
+      </a>
+    </div>
+  </div>
+</section>
+
+<hr class="m-0">
+
+<section class="resume-section p-3 p-lg-5 d-flex justify-content-center" id="experience">
+  <div class="w-100">
+    <h2 class="mb-5">Experience</h2>
+
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+        <h3 class="mb-0">Cashier</h3>
+        <div class="subheading mb-3"><a target="_blank" href="https://bann-restaurant.business.site/">Bann Korean Cuisine</a></div>
+        <p>
+          • Worked as a cashier by receiving orders and prepping food to be eaten <br> 
+          • Used communication skills to succeed in customer relations<br>
+        </p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">June 2019 - Present</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+        <h3 class="mb-0">Independent Cutco Sales Representative</h3>
+        <div class="subheading mb-3"><a target="_blank" href="https://www.cutco.com/">Cutco Cutlery</a></div>
+        <p>
+          • Scheduled appointments and conducted sales pitches<br>
+          • Used communication skills to gain experience in retail services and customer relations<br>
+        </p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">January 2019 - Present</span>
+      </div>
+    </div>
+
+
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+        <h3 class="mb-0">Soccer Referee</h3>
+        <div class="subheading mb-3"><a target="_blank" href="http://www.arbitersports.com/">U.S. National Referee Association</a></div>
+        <p>
+        • Attended youth and competitive soccer games to make calls and settle disputes based on disagreements<br>
+        • Ensured the safety of players and spectators by using communication skills to deal with disgruntled people<br>
+      </p>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">January 2012 - Present</span>
+      </div>
+    </div>
+
+
+
+  </div>
+
+</section>
+
+<hr class="m-0">
+
+<section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="education">
+  <div class="w-100">
+    <h2 class="mb-5">Education</h2>
+
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+        <h3 class="mb-0">University of California Riverside</h3>
+        <div class="subheading mb-3">Masters of Business Administration</div>
+        <div>MBA in International Business</div>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">August 2018 - Present</span>
+      </div>
+    </div>
+
+    <div class="resume-item d-flex flex-column flex-md-row justify-content-between mb-5">
+      <div class="resume-content">
+        <h3 class="mb-0">Scripps Ranch High School</h3>
+        <div class="subheading mb-3">High School Diploma</div>
+        <div>Completed four years with a 3.6 GPA</div>
+      </div>
+      <div class="resume-date text-md-right">
+        <span class="text-primary">September 2014 - June 2018</span>
+      </div>
+    </div>
+  </div>
+</section>
+
+<hr class="m-0">
+
+<section class="resume-section p-1 p-lg-5 d-flex align-items-center" id="portfolio">
+  <div class="w-100">
+    <h2 class="mb-5">Portfolio</h1>
+    <center>
+        <img src="img/cashh.jpg" width="500px">
+        <img src="img/cutco.jpg" width="500px"> <br>
+        <img src="img/socref.jpg" width="500px">
+        <img src="img/photograph.jpeg" width="500px"> <br>
+    </center>
+  </div>
+</section>
+
+<hr class="m-0">
+<center>&copy; <script type="text/javascript">
+![This is a screenshot of the top section of my resume. The screenshot includes my name, major, bio, and links to my linkedin, github, twitter, and email.On the side bar, there is my profile picture, and four scrolltriggers that link to About, Experience, Education, and Portfolio.](img/NathanYangResume.png)
